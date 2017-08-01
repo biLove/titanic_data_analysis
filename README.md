@@ -2,6 +2,9 @@
 
 在本项目中，将会分析 泰坦尼克号数据集，将会使用 Python 库 NumPy、Pandas 和 Matplotlib 。
 
+# 本项目效果展示
+http://lilyalove.com/titanic_data_analysis/titanic-analysis_1.html
+
 # 需要安装的软件和库
 
 需要按照 Python，和以下库
